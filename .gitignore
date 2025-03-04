@@ -1,3 +1,5 @@
+# Ignore Pt files
+*.pt
 # Ignore image files
 *.png
 *.jpg
