@@ -1,5 +1,5 @@
 # Ignore Pt files
-*.pt
+yolov8x.pt
 # Ignore image files
 *.png
 *.jpg
